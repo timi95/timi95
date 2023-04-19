@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📘 Check out my debut novel 'Pious Body' on (https://amzn.eu/d/bqj4OJk)[Amazon]
+📘 Check out my debut novel 'Pious Body' on [Amazon](https://amzn.eu/d/bqj4OJk)
 🔭 I’m currently working on a Java Spring Microservice recipe for later purposes
 
 
