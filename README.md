@@ -2,7 +2,7 @@
 
 - 📘 Check out my debut novel 'Pious Body' on [Amazon](https://amzn.eu/d/bqj4OJk)
 
-- 🔭 I’m currently working on a Java Spring Microservice recipe for later purposes
+- 🔭 I’m currently working on a microservices project recipe for later (secret, nefarious) purposes
 
 
 <!--
