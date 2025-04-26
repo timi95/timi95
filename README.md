@@ -3,7 +3,7 @@
 - 📘 Check out my debut novel 'Pious Body' on [Amazon](https://amzn.eu/d/bqj4OJk)
 
 - 🔭 I’m currently working on:
-  +  The sequel to Pious Body (early drafting stage)
+  +  The sequel to Pious Body (~~early drafting stage~~, First Draft Done babyyy!)
 
 - 💬 Ask me about: **Updaug**
 
