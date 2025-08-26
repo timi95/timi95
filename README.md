@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-- 📘 My second fantasy novel - 'Blighted God: Althuria's Gate' is now available to purchase as an ebook [here](https://books2read.com/u/47D82a) and on [Amazon](https://amzn.eu/d/emmwbjZ)
+
     + You can also get the first novel - 'Pious Body: Althuria's Gate' on [Amazon](https://amzn.eu/d/bqj4OJk) and in [other stores](https://books2read.com/u/m0q0zA)
 
 
 <div style="display:flex; 
             flex-flow: row; 
-            max-height: 150px; 
             align-items: center; 
             padding: 5px;">
-  <img height="150" width="100" src="PB_AG-2023-03-19 12.40.54 books2read.com adc6119b94a9.png" />
-  <img height="150" width="100" src="front cover.jpg" />
+    <p>
+         📘 My second fantasy novel - 'Blighted God: Althuria's Gate' is now available to purchase as an ebook [here](https://books2read.com/u/47D82a) and on [Amazon](https://amzn.eu/d/emmwbjZ)
+          
+        <img height="150" width="100" src="front cover.jpg" />
+    </p>
+
+    <p>
+        + You can also get the first novel - 'Pious Body: Althuria's Gate' on [Amazon](https://amzn.eu/d/bqj4OJk) and in [other stores](https://books2read.com/u/m0q0zA)
+      <img height="150" width="100" src="PB_AG-2023-03-19 12.40.54 books2read.com adc6119b94a9.png" />
+    </p>
 </div>
       
 - 💬 Ask me about: **Updaug**
