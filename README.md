@@ -4,10 +4,10 @@
     + You can also get the first novel - 'Pious Body: Althuria's Gate' on [Amazon](https://amzn.eu/d/bqj4OJk) and in [other stores](https://books2read.com/u/m0q0zA)
 
 
-<p align="center">
+<div style="display:flex; max-height: 150px; align-items:center;" padding: 5px;>
   <img src="PB_AG-2023-03-19 12.40.54 books2read.com adc6119b94a9.png" />
   <img src="front cover.jpg" />
-</p>
+</div>
       
 - 💬 Ask me about: **Updaug**
 
