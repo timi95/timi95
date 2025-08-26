@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 📘 Check out my debut novel 'Pious Body' on [Amazon](https://amzn.eu/d/bqj4OJk)
+- 📘 My second fantasy novel - 'Blighted God: Althuria's Gate' is now available to purchase as an ebook [here](https://books2read.com/u/47D82a) and on [Amazon](https://amzn.eu/d/emmwbjZ)
+    + You can also get the first novel - 'Pious Body: Althuria's Gate' on [Amazon](https://amzn.eu/d/bqj4OJk) and in [other stores](https://books2read.com/u/m0q0zA)
 
-- 🔭 I’m currently working on:
-  +  The sequel to Pious Body (~~early drafting stage~~, First Draft Done babyyy!, Second Draft: 90%)
-
+      
 - 💬 Ask me about: **Updaug**
 
 <!--
