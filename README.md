@@ -9,10 +9,10 @@
             max-height: 150px; 
             align-items: center; 
             padding: 5px;">
-    <a href="https://books2read.com/u/47D82a">
+    <a href="https://books2read.com/u/m0q0zA">
       <img height="150" width="100" src="PB_AG-2023-03-19 12.40.54 books2read.com adc6119b94a9.png" />
     </a>
-    <a href="https://books2read.com/u/m0q0zA">
+    <a href="https://books2read.com/u/47D82a" >
       <img height="150" width="100" src="front cover.jpg" />
     </a>
 </div>
