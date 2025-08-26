@@ -3,6 +3,7 @@
 - 📘 My second fantasy novel - 'Blighted God: Althuria's Gate' is now available to purchase as an ebook [here](https://books2read.com/u/47D82a) and on [Amazon](https://amzn.eu/d/emmwbjZ)
     + You can also get the first novel - 'Pious Body: Althuria's Gate' on [Amazon](https://amzn.eu/d/bqj4OJk) and in [other stores](https://books2read.com/u/m0q0zA)
 
+- ![Pious Body](./PB_AG-2023-03-19 12.40.54 books2read.com adc6119b94a9.png), ![Blighted God](./front cover.jpg)
       
 - 💬 Ask me about: **Updaug**
 
