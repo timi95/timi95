@@ -4,10 +4,10 @@
             justify-content:space-evenly;
             align-items: center; 
             padding: 15px;">
-    <a href="https://books2read.com/u/m0q0zA">
+    <a href="https://books2read.com/u/m0q0zA" style="text-decoration:none;">
       <img height="250" width="200" src="PB_AG-2023-03-19 12.40.54 books2read.com adc6119b94a9.png" />
     </a>
-    <a href="https://books2read.com/u/47D82a" >
+    <a href="https://books2read.com/u/47D82a" style="text-decoration:none;">
       <img height="250" width="200" src="front cover.jpg" />
     </a>
 </div>
