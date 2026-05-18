@@ -1,13 +1,7 @@
 <h1>Fantasy novels</h1>
 <h2>Althuria's Gate</h2>
 
-<div style="display:flex; 
-            flex-flow:row; 
-            width:100%;
-            justify-content:space-evenly;
-            align-items: center; 
-            padding:15px;
-            text-decoration:none;">
+<div>
     <a href="https://books2read.com/u/m0q0zA">
       <img height="250" width="200" src="PB_AG-2023-03-19 12.40.54 books2read.com adc6119b94a9.png" />
     </a>
